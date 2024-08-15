@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	util "github.com/Pairin/go-util"
+	util "github.com/mirrim-coach/go-util"
 	"github.com/aymerick/raymond"
 )
 
